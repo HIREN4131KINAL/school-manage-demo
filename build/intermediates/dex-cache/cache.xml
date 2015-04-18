@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/libs/Parse-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5811138d4e6cb9d45030e133ef1a61b935154c3a">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/Parse-1.9.0-bf36d671c938eb298b7dc7c3d7725c89d8c18bd5.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/classes-6abf485d8b95b67a8f223437669491671a509749.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/classes-c004f9d733de9fe2a0a8a7a45fe3c5d92b88c881.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/classes-5b18a20a768fbbcabf684198c250c00e0d2c21a1.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f931355a6e0f1a99540b50895dd742df19fc21d0.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/classes-9236ddce890d9c88e3f5d95aeac133de85246279.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-5f7b8252eb898f4254f57e797d3393e1d4e5ff0b.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f7139941928731f66784e8a25332e89f50d31ece.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/classes-1bef58b587669914790413578441eccfb2fcd2eb.jar" />
+    </item>
+    <item
+        jar="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ezrakirsh/Desktop/Stuff/Personal/App&apos;s/Android/School/app/build/intermediates/pre-dexed/debug/nineoldandroids-library-2.4.0-1fbc4a369d19d5a94ed2b8bcee58734760ff02ff.jar" />
+    </item>
+
+</items>
